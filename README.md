@@ -1,5 +1,6 @@
 # Flask-with-DB
 ### Flask gradeBookApp with database model integrated using SQLAlchemy + sqlite
+--------
 
 With this project, I have made a flask based GradeBook app which stores a student's data along with the respective courses he has opted for.
 
@@ -9,3 +10,5 @@ The DB file consists of 3 tables -
   - Enrollment's table : It basically holds the relationship between each student and his/her enrolled courses.
  
 More details on how the project has been built in a systematic way are in the pdf file - Week5_LabAssignment.pdf
+
+All the app related files are collectively present in the zip - 21f2001180.zip
