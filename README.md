@@ -11,4 +11,4 @@ The DB file consists of 3 tables -
  
 More details on how the project has been built in a systematic way are in the pdf file - Week5_LabAssignment.pdf
 
-All the app related files are collectively present in the zip - 21f2001180.zip
+All the app related files are collectively present in the zip - 21f2001180_with db file.zip
